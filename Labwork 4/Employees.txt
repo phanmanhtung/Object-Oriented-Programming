@@ -1,0 +1,20 @@
+========================
+Order: 1
+Employee's Name: Phan Manh Tung
+Employee's ID: 23124
+Employee's Birth Date: 21-06-1999
+Employee's Basic Salary: 8000.0
+Employee's Extra Salary: 16000.0
+Employee's Minimum Salary: 2000.0
+Employee's MC: 2.0
+========================
+========================
+Order: 2
+Employee's Name: Hoang Le
+Employee's ID: 01213
+Employee's Birth Date: 22-5-1998
+Employee's Basic Salary: 20000.0
+Employee's Extra Salary: 120000.0
+Employee's Minimum Salary: 5000.0
+Employee's MC: 6.0
+========================
