@@ -16,20 +16,21 @@ public class CheckingAccount
     } 
   
     public double currentBalance()  
-    { count +=1;
+    { 
+      count +=1;
       return balance; 
     } 
    
-    public double processDeposit(double amount)  
-    { count +=1;
+    public void processDeposit(double amount)  
+    { 
+      count +=1;
       balance += amount;
-      return balance; 
     } 
        
-    public double processWithdraw(double amount)  
-    { count +=1;
-      balance -= amount;
-      return balance; 
+    public void processWithdraw(double amount)  
+    { 
+      count +=1;
+      balance -= amount; 
     } 
    
     public void setaccountNumber(String newaccountNumber) 
