@@ -21,17 +21,17 @@ public class Car
    
     public void setstartMiles(double newstartMiles) 
     { 
-      this.startMiles = newstartMiles; 
+      startMiles = newstartMiles; 
     }
 
     public void setendMiles(double newendMiles) 
     { 
-      this.endMiles = newendMiles; 
+      endMiles = newendMiles; 
     } 
  
     public void setgallons(double newgallons) 
     { 
-      this.gallons = newgallons; 
+      gallons = newgallons; 
     }
 
     public double calculateMilesPerGallon(){ return (endMiles - startMiles)/gallons; }
